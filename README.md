@@ -15,3 +15,9 @@ https://labs.play-with-docker.com/
 https://www.tutorialspoint.com/docker/index.htm
 
 https://medium.com/@acokgungordu    ---  Güzel bir docker serisi paylaşmış
+
+https://aws.amazon.com/tr/blogs/opensource/why-use-docker-containers-for-machine-learning-development/  Docker ve ML etkileşimi için
+
+https://towardsdatascience.com/build-a-docker-container-with-your-machine-learning-model-3cf906f5e07e   ML Modeli için docker container oluşturmak
+
+https://towardsdatascience.com/deep-learning-with-containers-part-1-4779877492a1 Derin Öğrenme ve Container yapısının etkileşimi ve üretilmesi
