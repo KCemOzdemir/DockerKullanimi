@@ -13,3 +13,5 @@ https://docs.docker.com/get-started/
 https://labs.play-with-docker.com/
 
 https://www.tutorialspoint.com/docker/index.htm
+
+https://medium.com/@acokgungordu    ---  Güzel bir docker serisi paylaşmış
